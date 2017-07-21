@@ -25,7 +25,7 @@ import { HeroService } from './services/hero.service';
       AppRoutingModule],
   declarations: [AppComponent,
     DashboardComponent,
-    HeroDetailComponent,
+   HeroDetailComponent,
     HeroesComponent,
     HeroSearchComponent],
   providers: [HeroService],
